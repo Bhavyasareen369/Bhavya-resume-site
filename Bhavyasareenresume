@@ -1,0 +1,96 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Bhavya Sareen - Resume</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f2f2f2;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 2rem auto;
+      background: #fff;
+      padding: 2rem;
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      color: #005b99;
+    }
+    .section {
+      margin-bottom: 1.5rem;
+    }
+    .contact, .summary, .skills, .education, .projects, .experience, .certifications {
+      margin-bottom: 1rem;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 5px;
+    }
+    a {
+      color: #005b99;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Bhavya Sareen</h1>
+    <div class="contact">
+      <p>Email: <a href="mailto:taurusdiamonds33@gmail.com">taurusdiamonds33@gmail.com</a></p>
+      <p>Location: New Delhi</p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/bhavya-sareen-bb869123a">bhavya-sareen</a></p>
+    </div><div class="summary section">
+  <h2>Professional Summary</h2>
+  <p>Multidisciplinary entrepreneur blending astrology, diamond design, and business insights. Passionate about spiritual sciences and market strategy, with a creative mindset and deep intuitive strength.</p>
+</div>
+
+<div class="skills section">
+  <h2>Skills</h2>
+  <p>Diamond designer, Astrologer, Numerologist, Trader, Investing, Marketing, Entrepreneurship, Canva (Advanced)</p>
+</div>
+
+<div class="education section">
+  <h2>Education</h2>
+  <ul>
+    <li>10th - Prudence School (84%)</li>
+    <li>12th - Prudence School (79.8%)</li>
+    <li>B.A. - Satyawati College, University of Delhi</li>
+    <li>BBADBE - Indian Institute of Bangalore</li>
+  </ul>
+</div>
+
+<div class="projects section">
+  <h2>Projects</h2>
+  <p>Over 50 research projects on niche topics in astrology.</p>
+</div>
+
+<div class="experience section">
+  <h2>Work Experience</h2>
+  <ul>
+    <li>Intern - Devansh Enterprises (Product Designing) | 2019–2025</li>
+    <li>CEO & Artisan - Taurus Diamonds | 2024–Present</li>
+    <li>CEO & Senior Astrologer - Occult Verse | 2022–Present</li>
+  </ul>
+</div>
+
+<div class="certifications section">
+  <h2>Certifications</h2>
+  <ul>
+    <li>Google Marketing Certification</li>
+    <li>Lunar Astro Diploma Course</li>
+    <li>Astro Arun Pandit Advanced Astrology Course</li>
+    <li>NISM 2 Certifications</li>
+    <li>NSE Course on Future and Options Techniques</li>
+  </ul>
+</div>
+
+  </div>
+</body>
+</html>
